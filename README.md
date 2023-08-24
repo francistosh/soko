@@ -1,2 +1,15 @@
-# soko
+# SOKO
 Online Shop Platform
+
+# Current versions:
+  Codeigniter 3.1.6
+  Bootstrap 3.3.7
+
+# Easy installation in 3 steps
+  1. Import database.sql to your mysql
+  2. Set hostname, username and password in application/config/database.php
+  3. Set your site domain in application/config/config.php - $config['base_url'] = 'http://yourdomain.com';
+
+# Login to administration with
+    User: admin
+    Pass: admin
